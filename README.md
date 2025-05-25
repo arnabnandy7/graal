@@ -101,3 +101,6 @@ Component(s) | License
 [vscode-extensions]: https://github.com/graalvm/vscode-extensions
 [website]: https://www.graalvm.org/
 [youtube]: https://www.youtube.com/graalvm
+
+
+<!-- GitAds-Verify: 59XPEER2HYQ15ULDCYYCPT1PN4HQ1HJB -->
